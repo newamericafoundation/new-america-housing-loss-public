@@ -38,7 +38,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 ## Development
 ```bash
-git clone https://github.com/datakind/new-america-housing-loss-tool
+git clone https://github.com/newamericafoundation/new-america-housing-loss-tool
 cd new-america-housing-loss-tool/cli
 mkvirtualenv -p $(which python3) -a $PWD new-america-housing-loss
 pip install --upgrade pip
