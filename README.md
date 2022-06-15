@@ -8,7 +8,7 @@ A guide is available here: https://www.newamerica.org/future-land-housing/report
 
 ## Python CLI Usage Instructions
 1. Ensure your data format is configured based on the required specification 
-   1. This [Google Sheet](https://docs.google.com/spreadsheets/d/1WKxpcxZI_MMJJ5lqcwauhsuw3NBxwcG5/edit?usp=sharing&ouid=104702318722434350576&rtpof=true&sd=true) presents the data requirements
+   1. This [Google Sheet](https://docs.google.com/spreadsheets/d/1WKxpcxZI_MMJJ5lqcwauhsuw3NBxwcG5/edit?usp=sharing&ouid=104702318722434350576&rtpof=true&sd=true) (archived [here](https://github.com/newamericafoundation/new-america-housing-loss-public/tree/main/PartnerSiteDataCollectionForm.xlsx)) presents the data requirements
    2. This [Example Directory](https://github.com/newamericafoundation/new-america-housing-loss-public/tree/main/cli/collection/tests/resources) shows a populated version of the format with random addresses
 2. Download Python 3.8.10 here: https://www.python.org/downloads/release/python-3810/ and follow the instructions to install Python
 3. Navigate to the New America Housing Loss Tool here: https://github.com/newamericafoundation/new-america-housing-loss-public.git
