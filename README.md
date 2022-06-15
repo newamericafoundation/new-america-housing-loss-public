@@ -1,8 +1,10 @@
-# DataKind New America Housing Loss Analysis Tool #
+# DataKind New America Foreclosure and Eviction Analysis Tool
 
 A Command Line Interface (CLI) that allows users to ingest eviction, 
 foreclosure, and tax lien data and outputs statistical summaries and 
 geolocation data. 
+
+A guide is available here: https://www.newamerica.org/future-land-housing/reports/foreclosure-and-eviction-analysis-tool/
 
 ## Python CLI Usage Instructions
 1. Ensure your data format is configured based on the required specification 
